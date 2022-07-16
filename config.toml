@@ -1,3 +1,4 @@
 baseURL = 'https://darlansjo.github.io/'
 languageCode = 'en-us'
 title = "Darlan's Blog"
+theme = 'lugo'
