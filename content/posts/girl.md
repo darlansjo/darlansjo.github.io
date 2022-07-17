@@ -18,7 +18,8 @@ that naguhty
 -   girl
 -   yes
 -   [ ] check
+-   [X] checked
 
-| ther | e    | was |
-|------|------|-----|
-| a    | girl | eee |
+| ther || e || was |
+|------|---|-----|
+| a || girl || eee |
