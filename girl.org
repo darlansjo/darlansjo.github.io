@@ -10,6 +10,8 @@
 #+hugo_draft: false
 #+hugo_tags: miscelaneous test
 #+title: about a girl
+
+
 * there was
 1 girl
 ** a girl
@@ -21,9 +23,18 @@ that naguhty
 - [ ] check
 - [X] checked
 
-| / | <>   | <>   | <> |
+| / | <>   | <>   | <>  |
 |---+------+------+-----|
 |   | ther | e    | was |
 |---+------+------+-----|
 |   | a    | girl | eee |
 |---+------+------+-----|
+
+#+BEGIN_SRC sh
+  ls
+#+END_SRC
+
+
+$\latex$
+
+\[ \sqrt{2} + 4^{2} = 9 \]

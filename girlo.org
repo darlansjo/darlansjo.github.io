@@ -1,13 +1,35 @@
+
+#+LATEX_HEADER: \usepackage{listings}
+#+LATEX_HEADER: \usepackage{mathtools}
+#+LATEX_HEADER: \usepackage{stmaryrd}
+#+LATEX_HEADER: \lstset{basicstyle=\ttfamily\fontsize{10}{10}\selectfont, mathescape}
+#+LATEX_HEADER: \setminted{fontfamily=helvetica,mathescape,escapeinside=''}
+
+
+#+LATEX_HEADER: \documentclass[8pt,a4paper]{article}
+#+LATEX_HEADER: \usepackage{geometry}
+#+LATEX_HEADER: \geometry{a4paper,nohead,left=1cm,right=1cm,top=1cm,bottom=1cm}
+#+LATEX_HEADER: \setminted{fontfamily=helvetica}
+#+LATEX_HEADER: \usepackage{DejaVuSerif}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \parskip=6pt
+#+LATEX_HEADER: \parindent=0pt
+
+
+#+HTML_MATHJAX: align: left indent: 5em tagside: left font: Neo-Euler
 #+options: ':nil -:nil ^:{} num:nil toc:nil
 #+author: darlan
 #+creator: Emacs 28.1 (Org mode 9.5.2 + ox-hugo)
-#+hugo_front_matter_format: toml
+#+hugo_front_matter_format: yaml
+#+HUGO_CUSTOM_FRONT_MATTER: :math true
 #+hugo_level_offset: 1
 #+hugo_base_dir: 
+# #+options: tex:dvipng 
 #+hugo_section: posts
 #+hugo_date_format: %Y-%m-%dT%T%z
 #+date: <2022-07-16 Sa>
 #+hugo_draft: false
+#+hugo_math: true
 #+hugo_tags: miscelaneous test
 #+title: about a girl
 * there was
@@ -27,3 +49,17 @@ that naguhty
 |---+------+------+-----|
 |   | a    | girl | eee |
 |---+------+------+-----|
+
+esoadesro \(2^{4}\) and etc
+
+$$  C = W\log_{2} (1+\mathrm{SNR}) $$
+
+
+#+BEGIN_SRC latex :file lst-1.png :results none
+    \begin{lstlisting}
+      <digit> ::= 0|1|2|3|4|5|6|7|8|9
+      <operator> ::= +|-|$\times$|/
+    \end{lstlisting}
+#+END_SRC
+
+file:lst-1.png

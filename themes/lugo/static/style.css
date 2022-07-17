@@ -1,7 +1,7 @@
 body {
 	font-style: sans-serif ;
-	background: #FFFFFF ;
-	color: #000000 ;
+	background: #110000 ;
+	color: #ccc ;
 }
 
 main {
@@ -42,10 +42,4 @@ footer {
 }
 #nextart,#prevart {
 	max-width: 33% ;
-}
-code.has-jax {
-    -webkit-font-smoothing: antialiased;
-    background: inherit !important;
-    border: none !important;
-    font-size: 100%;
 }
