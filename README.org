@@ -1,3 +1,4 @@
-Welcome to my site
+* Welcome to my site!
 
-[[darlansjo.github.io]]
+
+[[https://darlansjo.github.io]]
