@@ -1,0 +1,29 @@
+#+options: ':nil -:nil ^:{} num:nil toc:nil
+#+author: darlan
+#+creator: Emacs 28.1 (Org mode 9.5.2 + ox-hugo)
+#+hugo_front_matter_format: toml
+#+hugo_level_offset: 1
+#+hugo_base_dir: 
+#+hugo_section: posts
+#+hugo_date_format: %Y-%m-%dT%T%z
+#+date: <2022-07-16 Sa>
+#+hugo_draft: false
+#+hugo_tags: miscelaneous test
+#+title: about a girl
+* there was
+1 girl
+** a girl
+
+that naguhty
+
+- girl
+- yes
+- [ ] check
+- [X] checked
+
+| / | <>   | <>   | <> |
+|---+------+------+-----|
+|   | ther | e    | was |
+|---+------+------+-----|
+|   | a    | girl | eee |
+|---+------+------+-----|
