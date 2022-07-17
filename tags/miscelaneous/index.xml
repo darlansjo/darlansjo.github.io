@@ -6,20 +6,30 @@
 &lt;li>girl&lt;/li>
 &lt;li>yes&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> check&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> checked&lt;/li>
 &lt;/ul>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>ther&lt;/th>
-&lt;th>e&lt;/th>
-&lt;th>was&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>a&lt;/td>
-&lt;td>girl&lt;/td>
-&lt;td>eee&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;p>| ther || e || was |
+|&amp;mdash;&amp;mdash;|&amp;mdash;|&amp;mdash;&amp;ndash;|
+| a || girl || eee |&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>ls
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>$$ \LaTeX $$&lt;/p>
+&lt;p>single dollar \(2^4\) and etc&lt;/p>
+&lt;p>[ \sqrt{2} + 4^{2} = 9 ]&lt;/p>
+&lt;p>$$ \sqrt{2} + 4^{2} = 9 $$&lt;/p>
+&lt;p>\[ \sqrt{2} + 4^{2} = 9 \]&lt;/p></description></item><item><title>about a girl</title><link>https://darlansjo.github.io/posts/girlo/</link><pubDate>Sat, 16 Jul 2022 00:00:00 -0300</pubDate><guid>https://darlansjo.github.io/posts/girlo/</guid><description>&lt;h2 id="there-was">there was&lt;/h2>
+&lt;p>1 girl&lt;/p>
+&lt;h3 id="a-girl">a girl&lt;/h3>
+&lt;p>that naguhty&lt;/p>
+&lt;ul>
+&lt;li>girl&lt;/li>
+&lt;li>yes&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> check&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> checked&lt;/li>
+&lt;/ul>
+&lt;p>| ther || e || was |
+|&amp;mdash;&amp;mdash;|&amp;mdash;|&amp;mdash;&amp;ndash;|
+| a || girl || eee |&lt;/p>
+&lt;p>esoadesro \(2^{4}\) and etc&lt;/p>
+&lt;p>\[ C = W\log_{2} (1+\mathrm{SNR}) \]&lt;/p>
+&lt;figure>&lt;img src="https://darlansjo.github.io/ox-hugo/lst-1.png"/>
+&lt;/figure></description></item></channel></rss>

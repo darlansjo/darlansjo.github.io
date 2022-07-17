@@ -43,3 +43,9 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+code.has-jax {
+    -webkit-font-smoothing: antialiased;
+    background: inherit !important;
+    border: none !important;
+    font-size: 100%;
+}
