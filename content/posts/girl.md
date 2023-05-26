@@ -21,9 +21,9 @@ that naguhty
 -   [ ] check
 -   [X] checked
 
-| ther || e || was |
+| ther | e | was |
 |------|---|-----|
-| a || girl || eee |
+| a | girl | eee |
 
 ```sh
 ls
